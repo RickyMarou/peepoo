@@ -1,0 +1,22 @@
+{
+  "name": "peepoo-backend",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickyMarou/peepoo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickyMarou/peepoo/issues"
+  },
+  "homepage": "https://github.com/RickyMarou/peepoo#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
